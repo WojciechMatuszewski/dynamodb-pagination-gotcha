@@ -1,0 +1,11 @@
+{
+  "name": "dynamo-cursor-pagination",
+  "version": "0.1.0",
+  "scripts": {
+    "format": "prettier --config .prettierrc --write '**/*.tsx'"
+  },
+  "devDependencies": {
+    "tsx": "3.12.7",
+    "typescript": "5.1.6"
+  }
+}
